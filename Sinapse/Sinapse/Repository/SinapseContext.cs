@@ -10,13 +10,12 @@ namespace Sinapse.Repository
 {
     public class SinapseContext : DbContext
     {
-        public DbSet<Employe> Employes { get; set; }
+        public DbSet<HelpedStudent> HelpedStudents { get; set; }
 
-        public DbSet<Affectation> Affectations { get; set; }
+        public DbSet<Tutor> Tutors { get; set; }
 
-        public DbSet<Projet> Projets { get; set; }
+        public DbSet<TutoringSession> TutoringSessions { get; set; }
 
-        public DbSet<Client> Clients { get; set; }
     }
 
     public class SinapseInitializer : DropCreateDatabaseIfModelChanges<SinapseContext>
@@ -49,11 +48,11 @@ namespace Sinapse.Repository
 
             appContext.Clients.Add(cl1);
             appContext.Clients.Add(cl2);
-            appContext.Projets.Add(p1);
-            appContext.Projets.Add(p2);
-            appContext.Projets.Add(p3);
-            appContext.Projets.Add(p4);
-            appContext.Projets.Add(p5);
+            appContext.TutoringSessions.Add(p1);
+            appContext.TutoringSessions.Add(p2);
+            appContext.TutoringSessions.Add(p3);
+            appContext.TutoringSessions.Add(p4);
+            appContext.TutoringSessions.Add(p5);
 
             appContext.Affectations.Add(new Affectation { AffectationID = 1001, DateAffectation = DateTime.Today, EmployeID = emp1, ProjetID = p1 });
             appContext.Affectations.Add(new Affectation { AffectationID = 1002, DateAffectation = DateTime.Today, EmployeID = emp1, ProjetID = p2 });
