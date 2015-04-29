@@ -48,10 +48,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\Affectation.cs" />
-    <Compile Include="Model\Client.cs" />
-    <Compile Include="Model\Employe.cs" />
-    <Compile Include="Model\Projet.cs" />
+    <Compile Include="Model\HelpedStudent.cs" />
+    <Compile Include="Model\Tutor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\SinapseContext.cs" />

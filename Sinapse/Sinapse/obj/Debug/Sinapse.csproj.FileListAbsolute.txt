@@ -11,3 +11,6 @@ F:\Programmation\C# Projects\Sinapse\Sinapse\obj\Debug\Sinapse.csprojResolveAsse
 C:\Users\Gabriel\Documents\Classes\Session d'Hiver\Bases de données\Matériel de cours\Cours26\Exemple de Code\Sinapse\Sinapse\bin\Debug\Sinapse.exe.config
 C:\Users\Gabriel\Documents\Classes\Session d'Hiver\Bases de données\Matériel de cours\Cours26\Exemple de Code\Sinapse\Sinapse\obj\Debug\Sinapse.exe
 C:\Users\Gabriel\Documents\Classes\Session d'Hiver\Bases de données\Matériel de cours\Cours26\Exemple de Code\Sinapse\Sinapse\obj\Debug\Sinapse.pdb
+C:\dev\TP3_BD\Sinapse\Sinapse\bin\Debug\Sinapse.exe.config
+C:\dev\TP3_BD\Sinapse\Sinapse\obj\Debug\Sinapse.exe
+C:\dev\TP3_BD\Sinapse\Sinapse\obj\Debug\Sinapse.pdb
