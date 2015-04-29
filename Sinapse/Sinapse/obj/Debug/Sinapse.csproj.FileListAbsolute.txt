@@ -1,0 +1,13 @@
+F:\Programmation\C# Projects\Sinapse\Sinapse\bin\Debug\Sinapse.exe.config
+F:\Programmation\C# Projects\Sinapse\Sinapse\bin\Debug\Sinapse.exe
+F:\Programmation\C# Projects\Sinapse\Sinapse\bin\Debug\Sinapse.pdb
+F:\Programmation\C# Projects\Sinapse\Sinapse\bin\Debug\EntityFramework.dll
+F:\Programmation\C# Projects\Sinapse\Sinapse\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programmation\C# Projects\Sinapse\Sinapse\bin\Debug\EntityFramework.xml
+F:\Programmation\C# Projects\Sinapse\Sinapse\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programmation\C# Projects\Sinapse\Sinapse\obj\Debug\Sinapse.exe
+F:\Programmation\C# Projects\Sinapse\Sinapse\obj\Debug\Sinapse.pdb
+F:\Programmation\C# Projects\Sinapse\Sinapse\obj\Debug\Sinapse.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Classes\Session d'Hiver\Bases de données\Matériel de cours\Cours26\Exemple de Code\Sinapse\Sinapse\bin\Debug\Sinapse.exe.config
+C:\Users\Gabriel\Documents\Classes\Session d'Hiver\Bases de données\Matériel de cours\Cours26\Exemple de Code\Sinapse\Sinapse\obj\Debug\Sinapse.exe
+C:\Users\Gabriel\Documents\Classes\Session d'Hiver\Bases de données\Matériel de cours\Cours26\Exemple de Code\Sinapse\Sinapse\obj\Debug\Sinapse.pdb
