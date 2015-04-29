@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Model\HelpedStudent.cs" />
     <Compile Include="Model\Tutor.cs" />
+    <Compile Include="Model\TutoringSession.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\SinapseContext.cs" />
